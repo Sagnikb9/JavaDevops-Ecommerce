@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MedioxyPharm/src/main/webapp/header,jsp.jsp&apos; to &apos;header.jsp&apos;" description="Rename resource &apos;header,jsp.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/header,jsp.jsp" name="header.jsp" stamp="1506207231835" updateReferences="true"/>
+</session>
